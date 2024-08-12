@@ -1,0 +1,37 @@
+/* .step-item {
+    @apply relative flex flex-col justify-center items-center w-36 mb-6;
+  }
+  
+  .step-item:not(:first-child):before {
+    @apply content-[''] bg-slate-200 absolute h-full w-[3px] left-1/2 top-2/4 -translate-x-2/4;
+  }
+  
+  .step {
+    @apply w-10 h-10 flex items-center justify-center z-10 relative bg-slate-700 rounded-full font-semibold text-white;
+  }
+  
+  .active .step {
+    @apply bg-sky-600;
+  }
+  
+  .complete .step {
+    @apply bg-green-600;
+  }
+  
+  .complete p {
+    @apply text-white;
+  }
+  
+  .complete:not(:first-child):before,
+  .active:not(:first-child):before {
+    @apply bg-green-600;
+  }
+  
+  .container {
+    @apply flex flex-col items-center;
+  }
+  
+  .btn {
+    @apply mt-4 bg-sky-600 text-white py-2 px-4 rounded;
+  }
+   */
